@@ -1,13 +1,10 @@
 # DayZzz
-[ External ] DayZ meme
+For learning purposes only and not responsible for any problems with the code.  
 
-for learning purposes only and was tested only in offline mode.  
-I am not responsible for anything that happened through the source.  
+If you use it without any modification, you will get a ban.
 
-In addition, since it is a Memory Read/Write function in User-mode, if you want to bypass AC you need to change it to Kernel Memory Read/Write function(not C&P), If you use the program on an online server, it is 100% detect.
-
-## Features
-- Draw ESP (Player, Zombie, Car)  
+## Feature
+- Draw esp (Player, Zombie, Car)  
 
 ## Pictures
 ![1](https://user-images.githubusercontent.com/70523536/145586801-2de7d331-f5b8-4823-825f-43d4b478ea03.png)  
